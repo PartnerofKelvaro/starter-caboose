@@ -30,10 +30,10 @@ class Caboose {
 
 	// define the components
     var $components = array(
-         'lightbox' => array(
-            'css' => 'jquery.lightbox-0.5.css',
-            'js' => 'jquery.lightbox-0.5.min.js',
-            'template' => 'lightbox'
+         'jrating' => array(
+            'css' => 'jRating.jquery.css',
+            'js' => 'jRating.jquery.js',
+            'template' => 'jrating'
         ),
        'confirm' => array(
             'css' => '',
